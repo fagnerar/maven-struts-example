@@ -1,0 +1,9 @@
+body {
+	background-color: #eee;
+}
+
+#calculadoraId {
+	background-color: #fff; 
+	width:500px; 
+	margin: 20px auto; 
+}
